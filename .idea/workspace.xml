@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0819680-8cf0-4693-ae08-f10ce46e1d07" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IadULlTWJMp0to1zRfMfaUUlXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyCollectionTest">
+    <configuration name="MyCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="se14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.aau.serg.exercises.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.aau.serg.exercises.tdd" />
+      <option name="MAIN_CLASS_NAME" value="at.aau.serg.exercises.tdd.MyCollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCollectionTest.givenCollection_whenRemove_thenThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="se14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.aau.serg.exercises.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.aau.serg.exercises.tdd" />
+      <option name="MAIN_CLASS_NAME" value="at.aau.serg.exercises.tdd.MyCollectionTest" />
+      <option name="METHOD_NAME" value="givenCollection_whenRemove_thenThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="se14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.aau.serg.exercises.shapetesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.aau.serg.exercises.shapetesting" />
+      <option name="MAIN_CLASS_NAME" value="at.aau.serg.exercises.shapetesting.RectangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.givenNewRectangle_whenGetSides_thenReturnCorrectValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="se14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.aau.serg.exercises.shapetesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.aau.serg.exercises.shapetesting" />
+      <option name="MAIN_CLASS_NAME" value="at.aau.serg.exercises.shapetesting.RectangleTest" />
+      <option name="METHOD_NAME" value="givenNewRectangle_whenGetSides_thenReturnCorrectValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.givenNewRectangle_whenGetWidth_thenReturnNotEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="se14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.aau.serg.exercises.shapetesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.aau.serg.exercises.shapetesting" />
+      <option name="MAIN_CLASS_NAME" value="at.aau.serg.exercises.shapetesting.RectangleTest" />
+      <option name="METHOD_NAME" value="givenNewRectangle_whenGetWidth_thenReturnNotEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyCollectionTest" />
+        <item itemvalue="JUnit.MyCollectionTest.givenCollection_whenRemove_thenThrowException" />
+        <item itemvalue="JUnit.RectangleTest" />
+        <item itemvalue="JUnit.RectangleTest.givenNewRectangle_whenGetSides_thenReturnCorrectValues" />
+        <item itemvalue="JUnit.RectangleTest.givenNewRectangle_whenGetWidth_thenReturnNotEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0819680-8cf0-4693-ae08-f10ce46e1d07" name="Changes" comment="" />
+      <created>1670423649302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670423649302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjectNew$All_in_se14.ic" NAME="All in se14 Coverage Results" MODIFIED="1670429837395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
