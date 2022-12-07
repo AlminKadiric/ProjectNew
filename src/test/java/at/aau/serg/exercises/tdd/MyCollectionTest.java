@@ -39,7 +39,7 @@ public class MyCollectionTest
     @Test
     public void givenCollection_whenEmpty_thenInitializedNewList(){
         myCollection.empty();
-        Assertions.assertEquals(5,myCollection.size());
+        Assertions.assertEquals(0,myCollection.size());
     }
 
 }
